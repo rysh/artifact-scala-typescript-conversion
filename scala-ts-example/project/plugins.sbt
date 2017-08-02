@@ -1,0 +1,1 @@
+addSbtPlugin("com.github.miloszpp" % "scala-ts" % "0.3.2")
